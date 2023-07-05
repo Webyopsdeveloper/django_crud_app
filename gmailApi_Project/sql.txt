@@ -1,0 +1,10 @@
+CREATE TABLE gmailApi (
+    id SERIAL PRIMARY KEY,
+    label TEXT,
+    subject TEXT,
+    sender TEXT,
+    date TIMESTAMP
+);
+select * from gmailApi;
+SELECT inet_server_addr() AS host;
+DELETE FROM gmailApi;
