@@ -1,0 +1,22 @@
+version: '3.9'
+
+services:
+
+  db:
+    image: postgres:13
+    container_name: postgres
+    restart: always
+    environment:
+      - POSTGRES_PASSWORD=postgres
+      - POSTGRES_USER=postgres
+      - POSTGRES_DB=postgres
+  web:
+    image: django-docker:0.0.1
+    build: restapi
+    container_name: rest_api
+    volumes:
+      - .:/rest_api
+    ports:
+      - "8000:8000"
+    depends_on:
+      - db
