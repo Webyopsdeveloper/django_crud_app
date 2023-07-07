@@ -54,3 +54,31 @@ Application will start localhost: http://127.0.0.1:8000
 url to start browsing restFramework: http://127.0.0.1:8000/api/Customer/
 
 
+#Refer docs and blogs:
+
+https://stackoverflow.com/questions/63493978/django-db-utils-operationalerror-could-not-connect-to-server-connection-refuse
+
+
+# Create VirtualEnv
+$ conda -V  --- Check Conda Version
+$ conda update conda  --> Update the existing conda version to check if any updates
+$ conda create -n djangoCrudapp python=3.10 anaconda
+$ source activate djangoCrudapp
+
+# Install Requirements
+$ pip install -r requirements.txt
+
+# setup local Postgres Database Connection string
+Update the local database connection string>
+Update /api/restapi/setting.py update postgres connections.
+
+# STEP:1 Make Migration
+
+$python manage.py migrate
+$python manage.py makemigrations
+$python manage.py runserver
+
+Application will start localhost: http://127.0.0.1:8000
+url to start browsing restFramework: http://127.0.0.1:8000/api/Customer/
+
+
