@@ -1,0 +1,390 @@
+2023-07-12 21:47:58,791 - INFO - Starting Gmail data extraction for test@example.com...
+2023-07-12 21:47:58,791 - INFO - Processing message 1/2
+2023-07-12 21:47:58,791 - INFO - Processing message 2/2
+2023-07-12 21:47:58,791 - INFO - Gmail data extraction completed for test@example.com. Time elapsed: 0:00:00
+2023-07-12 21:52:39,353 - INFO - Starting Gmail data extraction for test@example.com...
+2023-07-12 21:52:39,362 - INFO - Processing message 1/2
+2023-07-12 21:52:39,362 - INFO - Processing message 2/2
+2023-07-12 21:52:39,362 - INFO - Gmail data extraction completed for test@example.com. Time elapsed: 0:00:00.001400
+2023-07-12 21:52:39,375 - INFO - ----- Starting the program -----
+2023-07-12 21:53:44,616 - INFO - Starting Gmail data extraction for test@example.com...
+2023-07-12 21:53:44,619 - INFO - Processing message 1/2
+2023-07-12 21:53:44,619 - INFO - Processing message 2/2
+2023-07-12 21:53:44,620 - INFO - Gmail data extraction completed for test@example.com. Time elapsed: 0:00:00.003723
+2023-07-12 21:53:44,631 - INFO - ----- Starting the program -----
+2023-07-12 21:53:48,929 - INFO - Starting Gmail data extraction for test@example.com...
+2023-07-12 21:53:48,933 - INFO - Processing message 1/2
+2023-07-12 21:53:48,933 - INFO - Processing message 2/2
+2023-07-12 21:53:48,933 - INFO - Gmail data extraction completed for test@example.com. Time elapsed: 0:00:00.004035
+2023-07-12 21:53:48,937 - INFO - ----- Starting the program -----
+2023-07-12 22:00:15,916 - INFO - Starting Gmail data extraction for test@example.com...
+2023-07-12 22:00:15,918 - INFO - Processing message 1/2
+2023-07-12 22:00:15,918 - INFO - Processing message 2/2
+2023-07-12 22:00:15,918 - INFO - Gmail data extraction completed for test@example.com. Time elapsed: 0:00:00.002588
+2023-07-12 22:00:15,927 - INFO - ----- Starting the program -----
+2023-07-12 22:00:26,145 - INFO - "GET /?state=UAn6Y51F1FbtKP4BTivowIw3Adxdza&code=4/0AZEOvhXJsLb16jW2-Ay62saFF8jRg77_aum7JkwdrQdH2OPJ5fOsTMEphJXKWwUmcVpk8g&scope=https://www.googleapis.com/auth/gmail.readonly HTTP/1.1" 200 65
+2023-07-12 22:06:52,910 - INFO - ----- Starting the program -----
+2023-07-12 22:07:36,604 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-07-12 22:07:36,612 - INFO - Starting Gmail data extraction for vachapatel8765@gmail.com...
+2023-07-12 22:07:37,327 - INFO - Processing message 1/20
+2023-07-12 22:07:37,984 - INFO - Processing message 2/20
+2023-07-12 22:07:38,417 - INFO - Processing message 3/20
+2023-07-12 22:07:39,035 - INFO - Processing message 4/20
+2023-07-12 22:07:39,493 - INFO - Processing message 5/20
+2023-07-12 22:07:39,958 - INFO - Processing message 6/20
+2023-07-12 22:07:40,396 - INFO - Processing message 7/20
+2023-07-12 22:07:42,824 - INFO - Processing message 8/20
+2023-07-12 22:07:43,277 - INFO - Processing message 9/20
+2023-07-12 22:07:43,725 - INFO - Processing message 10/20
+2023-07-12 22:07:44,151 - INFO - Processing message 11/20
+2023-07-12 22:07:45,802 - INFO - Processing message 12/20
+2023-07-12 22:07:46,448 - INFO - Processing message 13/20
+2023-07-12 22:07:47,043 - INFO - Processing message 14/20
+2023-07-12 22:07:47,503 - INFO - Processing message 15/20
+2023-07-12 22:07:47,943 - INFO - Processing message 16/20
+2023-07-12 22:07:48,429 - INFO - Processing message 17/20
+2023-07-12 22:07:48,883 - INFO - Processing message 18/20
+2023-07-12 22:07:49,375 - INFO - Processing message 19/20
+2023-07-12 22:07:49,808 - INFO - Processing message 20/20
+2023-07-12 22:07:50,306 - INFO - Gmail data extraction completed for vachapatel8765@gmail.com. Time elapsed: 0:00:13.688761
+2023-07-12 22:07:50,306 - INFO - Loading data into PostgreSQL database...
+2023-07-12 22:07:50,382 - INFO - Data loaded into PostgreSQL database. Time elapsed: 0:00:00.075378
+2023-07-12 22:07:50,382 - INFO - ----- Program execution completed -----
+2023-07-12 22:14:53,345 - INFO - Starting Gmail data extraction for test@example.com...
+2023-07-12 22:14:53,353 - INFO - Processing message 1/2
+2023-07-12 22:14:53,353 - INFO - Processing message 2/2
+2023-07-12 22:14:53,354 - INFO - Gmail data extraction completed for test@example.com. Time elapsed: 0:00:00.008527
+2023-07-12 22:17:49,790 - INFO - ----- Starting the program -----
+2023-07-12 22:27:13,312 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-07-12 22:27:13,328 - INFO - ----- Starting the program -----
+2023-07-12 22:27:13,336 - INFO - Starting Gmail data extraction for test@example.com...
+2023-07-12 22:27:13,358 - INFO - Gmail data extraction completed for test@example.com. Time elapsed: 0:00:00.021819
+2023-07-12 22:27:13,358 - INFO - Loading data into PostgreSQL database...
+2023-07-12 22:30:08,201 - INFO - Starting Gmail data extraction for example@gmail.com...
+2023-07-12 22:30:08,211 - INFO - Gmail data extraction completed for example@gmail.com. Time elapsed: 0:00:00.009337
+2023-07-12 22:30:08,221 - INFO - ----- Starting the program -----
+2023-07-12 22:30:08,221 - INFO - Starting Gmail data extraction for test@example.com...
+2023-07-12 22:30:08,225 - INFO - Gmail data extraction completed for test@example.com. Time elapsed: 0:00:00.003790
+2023-07-12 22:30:08,225 - INFO - Loading data into PostgreSQL database...
+2023-07-12 22:32:53,994 - INFO - Starting Gmail data extraction for example@gmail.com...
+2023-07-12 22:32:54,000 - INFO - Gmail data extraction completed for example@gmail.com. Time elapsed: 0:00:00.005574
+2023-07-12 22:32:54,007 - INFO - ----- Starting the program -----
+2023-07-12 22:32:54,007 - INFO - Starting Gmail data extraction for test@example.com...
+2023-07-12 22:32:54,015 - INFO - Gmail data extraction completed for test@example.com. Time elapsed: 0:00:00.008056
+2023-07-12 22:32:54,015 - INFO - Loading data into PostgreSQL database...
+2023-07-12 22:36:44,092 - INFO - Starting Gmail data extraction for example@gmail.com...
+2023-07-12 22:36:44,092 - INFO - Gmail data extraction completed for example@gmail.com. Time elapsed: 0:00:00
+2023-07-12 22:36:44,111 - INFO - ----- Starting the program -----
+2023-07-12 22:36:44,111 - INFO - Starting Gmail data extraction for test@example.com...
+2023-07-12 22:36:44,111 - INFO - Gmail data extraction completed for test@example.com. Time elapsed: 0:00:00
+2023-07-12 22:36:44,111 - INFO - Loading data into PostgreSQL database...
+2023-07-12 22:38:10,675 - INFO - Starting Gmail data extraction for example@gmail.com...
+2023-07-12 22:38:10,682 - INFO - ----- Starting the program -----
+2023-07-12 22:38:10,682 - INFO - Starting Gmail data extraction for test@example.com...
+2023-07-12 22:38:10,692 - INFO - Gmail data extraction completed for test@example.com. Time elapsed: 0:00:00.010031
+2023-07-12 22:38:10,692 - INFO - Loading data into PostgreSQL database...
+2023-07-12 22:40:29,079 - INFO - Starting Gmail data extraction for example@gmail.com...
+2023-07-12 22:40:29,079 - INFO - Gmail data extraction completed for example@gmail.com. Time elapsed: 0:00:00
+2023-07-12 22:40:29,089 - INFO - ----- Starting the program -----
+2023-07-12 22:40:29,089 - INFO - Starting Gmail data extraction for test@example.com...
+2023-07-12 22:40:29,095 - INFO - Gmail data extraction completed for test@example.com. Time elapsed: 0:00:00.006513
+2023-07-12 22:40:29,095 - INFO - Loading data into PostgreSQL database...
+2023-07-12 22:42:26,348 - INFO - Starting Gmail data extraction for example@gmail.com...
+2023-07-12 22:42:26,356 - INFO - Gmail data extraction completed for example@gmail.com. Time elapsed: 0:00:00.007998
+2023-07-12 22:42:26,356 - INFO - ----- Starting the program -----
+2023-07-12 22:42:26,364 - INFO - Starting Gmail data extraction for test@example.com...
+2023-07-12 22:42:26,364 - INFO - Gmail data extraction completed for test@example.com. Time elapsed: 0:00:00
+2023-07-12 22:42:26,364 - INFO - Loading data into PostgreSQL database...
+2023-07-12 22:44:19,226 - INFO - Starting Gmail data extraction for example@gmail.com...
+2023-07-12 22:44:19,234 - INFO - Gmail data extraction completed for example@gmail.com. Time elapsed: 0:00:00.007995
+2023-07-12 22:44:19,242 - INFO - ----- Starting the program -----
+2023-07-12 22:44:19,242 - INFO - Starting Gmail data extraction for test@example.com...
+2023-07-12 22:44:19,250 - INFO - Gmail data extraction completed for test@example.com. Time elapsed: 0:00:00.008032
+2023-07-12 22:44:19,250 - INFO - Loading data into PostgreSQL database...
+2023-07-12 22:51:55,568 - INFO - Starting Gmail data extraction for example@gmail.com...
+2023-07-12 22:51:55,574 - INFO - Gmail data extraction completed for example@gmail.com. Time elapsed: 0:00:00.004716
+2023-07-12 22:51:55,585 - INFO - ----- Starting the program -----
+2023-07-12 22:51:55,586 - INFO - Starting Gmail data extraction for test@example.com...
+2023-07-12 22:51:55,593 - INFO - Gmail data extraction completed for test@example.com. Time elapsed: 0:00:00.007021
+2023-07-12 22:51:55,594 - INFO - Loading data into PostgreSQL database...
+2023-07-12 23:13:49,888 - INFO - ----- Starting the program -----
+2023-07-12 23:14:40,972 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-07-12 23:14:40,976 - INFO - Starting Gmail data extraction for vachapatel1504@gmail.com...
+2023-07-12 23:14:41,671 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2023-07-12 23:15:20,800 - INFO - ----- Starting the program -----
+2023-07-12 23:16:00,546 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-07-12 23:16:00,549 - INFO - Starting Gmail data extraction for vachapatel1504@gmail.com...
+2023-07-12 23:16:01,091 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2023-07-12 23:16:41,581 - INFO - ----- Starting the program -----
+2023-07-12 23:17:19,992 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-07-12 23:17:19,992 - INFO - Starting Gmail data extraction for vachapatel8765@gmail.com...
+2023-07-12 23:17:20,612 - INFO - Processing message 1/20
+2023-07-12 23:17:21,071 - INFO - Processing message 2/20
+2023-07-12 23:17:21,514 - INFO - Processing message 3/20
+2023-07-12 23:17:21,970 - INFO - Processing message 4/20
+2023-07-12 23:17:22,417 - INFO - Processing message 5/20
+2023-07-12 23:17:22,850 - INFO - Processing message 6/20
+2023-07-12 23:17:23,313 - INFO - Processing message 7/20
+2023-07-12 23:17:23,759 - INFO - Processing message 8/20
+2023-07-12 23:17:24,202 - INFO - Processing message 9/20
+2023-07-12 23:17:24,654 - INFO - Processing message 10/20
+2023-07-12 23:17:25,094 - INFO - Processing message 11/20
+2023-07-12 23:17:25,557 - INFO - Processing message 12/20
+2023-07-12 23:17:26,075 - INFO - Processing message 13/20
+2023-07-12 23:17:26,516 - INFO - Processing message 14/20
+2023-07-12 23:17:26,959 - INFO - Processing message 15/20
+2023-07-12 23:17:27,431 - INFO - Processing message 16/20
+2023-07-12 23:17:27,925 - INFO - Processing message 17/20
+2023-07-12 23:17:28,378 - INFO - Processing message 18/20
+2023-07-12 23:17:28,970 - INFO - Processing message 19/20
+2023-07-12 23:17:29,413 - INFO - Processing message 20/20
+2023-07-12 23:17:29,887 - INFO - Gmail data extraction completed for vachapatel8765@gmail.com. Time elapsed: 0:00:09.890244
+2023-07-12 23:17:29,887 - INFO - Loading data into PostgreSQL database...
+2023-07-12 23:17:30,099 - INFO - Data loaded into PostgreSQL database. Time elapsed: 0:00:00.212074
+2023-07-12 23:17:30,099 - INFO - ----- Program execution completed -----
+2023-07-12 23:17:53,978 - INFO - ----- Starting the program -----
+2023-07-12 23:18:40,530 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-07-12 23:18:40,530 - INFO - Starting Gmail data extraction for vachapatel1504@gmail.com...
+2023-07-12 23:18:41,070 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2023-07-12 23:20:06,600 - INFO - ----- Starting the program -----
+2023-07-12 23:20:52,936 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-07-12 23:20:52,936 - INFO - Starting Gmail data extraction for vachapatel1504@gmail.com...
+2023-07-12 23:20:53,750 - INFO - Processing message 1/2
+2023-07-12 23:20:54,185 - INFO - Processing message 2/2
+2023-07-12 23:20:54,767 - INFO - Gmail data extraction completed for vachapatel1504@gmail.com. Time elapsed: 0:00:01.830431
+2023-07-12 23:20:54,767 - INFO - Loading data into PostgreSQL database...
+2023-07-12 23:20:54,845 - INFO - Data loaded into PostgreSQL database. Time elapsed: 0:00:00.078804
+2023-07-12 23:20:54,846 - INFO - ----- Program execution completed -----
+2023-07-12 23:21:17,355 - INFO - ----- Starting the program -----
+2023-07-12 23:21:59,048 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-07-12 23:21:59,052 - INFO - Starting Gmail data extraction for jahanpatel20082008@gmail.com...
+2023-07-12 23:21:59,693 - INFO - Processing message 1/20
+2023-07-12 23:22:00,220 - INFO - Processing message 2/20
+2023-07-12 23:22:00,737 - INFO - Processing message 3/20
+2023-07-12 23:22:01,219 - INFO - Processing message 4/20
+2023-07-12 23:22:01,672 - INFO - Processing message 5/20
+2023-07-12 23:22:02,131 - INFO - Processing message 6/20
+2023-07-12 23:22:02,558 - INFO - Processing message 7/20
+2023-07-12 23:22:03,084 - INFO - Processing message 8/20
+2023-07-12 23:22:03,525 - INFO - Processing message 9/20
+2023-07-12 23:22:04,021 - INFO - Processing message 10/20
+2023-07-12 23:22:04,495 - INFO - Processing message 11/20
+2023-07-12 23:22:05,008 - INFO - Processing message 12/20
+2023-07-12 23:22:05,581 - INFO - Processing message 13/20
+2023-07-12 23:22:06,040 - INFO - Processing message 14/20
+2023-07-12 23:22:06,546 - INFO - Processing message 15/20
+2023-07-12 23:22:06,993 - INFO - Processing message 16/20
+2023-07-12 23:22:07,434 - INFO - Processing message 17/20
+2023-07-12 23:22:07,853 - INFO - Processing message 18/20
+2023-07-12 23:22:08,379 - INFO - Processing message 19/20
+2023-07-12 23:22:08,884 - INFO - Processing message 20/20
+2023-07-12 23:22:09,378 - INFO - Gmail data extraction completed for jahanpatel20082008@gmail.com. Time elapsed: 0:00:10.326403
+2023-07-12 23:22:09,379 - INFO - Loading data into PostgreSQL database...
+2023-07-12 23:22:09,453 - INFO - Data loaded into PostgreSQL database. Time elapsed: 0:00:00.074340
+2023-07-12 23:22:09,454 - INFO - ----- Program execution completed -----
+2023-07-12 23:23:07,638 - INFO - ----- Starting the program -----
+2023-07-12 23:24:10,027 - INFO - "GET /?state=3IH8ljW2xy5dlxW3cRoJinCqlsUqwe&code=4/0AZEOvhUHBwa8HsYK2h43PWOjOORg2-QM2P_vRSd5OZeQjghiQ8a-7L66t8h20bhxzRDzKA&scope=https://www.googleapis.com/auth/gmail.readonly HTTP/1.1" 200 65
+2023-07-12 23:24:10,339 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-07-12 23:24:10,345 - INFO - Starting Gmail data extraction for vachapatel1504@gmail.com...
+2023-07-12 23:24:11,055 - INFO - Processing message 1/2
+2023-07-12 23:24:11,581 - INFO - Processing message 2/2
+2023-07-12 23:24:12,039 - INFO - Gmail data extraction completed for vachapatel1504@gmail.com. Time elapsed: 0:00:01.693310
+2023-07-12 23:24:12,039 - INFO - Loading data into PostgreSQL database...
+2023-07-12 23:24:12,219 - INFO - Data loaded into PostgreSQL database. Time elapsed: 0:00:00.179208
+2023-07-12 23:24:12,219 - INFO - ----- Program execution completed -----
+2023-07-12 23:27:26,234 - INFO - ----- Starting the program -----
+2023-07-12 23:37:04,220 - INFO - ----- Starting the program -----
+2023-07-12 23:37:04,548 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-07-12 23:37:04,553 - INFO - Starting Gmail data extraction for test@example.com...
+2023-07-12 23:37:05,801 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2023-07-12 23:37:52,589 - INFO - ----- Starting the program -----
+2023-07-12 23:37:52,994 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-07-12 23:37:53,004 - INFO - Starting Gmail data extraction for vachapatel8765@gmail.com...
+2023-07-12 23:37:53,556 - INFO - Processing message 1/20
+2023-07-12 23:37:53,998 - INFO - Processing message 2/20
+2023-07-12 23:37:54,438 - INFO - Processing message 3/20
+2023-07-12 23:37:54,882 - INFO - Processing message 4/20
+2023-07-12 23:37:55,328 - INFO - Processing message 5/20
+2023-07-12 23:37:55,785 - INFO - Processing message 6/20
+2023-07-12 23:37:56,298 - INFO - Processing message 7/20
+2023-07-12 23:37:56,817 - INFO - Processing message 8/20
+2023-07-12 23:37:57,269 - INFO - Processing message 9/20
+2023-07-12 23:37:57,711 - INFO - Processing message 10/20
+2023-07-12 23:37:58,157 - INFO - Processing message 11/20
+2023-07-12 23:37:58,624 - INFO - Processing message 12/20
+2023-07-12 23:37:59,139 - INFO - Processing message 13/20
+2023-07-12 23:37:59,575 - INFO - Processing message 14/20
+2023-07-12 23:38:00,026 - INFO - Processing message 15/20
+2023-07-12 23:38:00,455 - INFO - Processing message 16/20
+2023-07-12 23:38:00,948 - INFO - Processing message 17/20
+2023-07-12 23:38:01,392 - INFO - Processing message 18/20
+2023-07-12 23:38:01,864 - INFO - Processing message 19/20
+2023-07-12 23:38:02,300 - INFO - Processing message 20/20
+2023-07-12 23:38:02,781 - INFO - Gmail data extraction completed for vachapatel8765@gmail.com. Time elapsed: 0:00:09.776627
+2023-07-12 23:38:02,782 - INFO - Loading data into PostgreSQL database...
+2023-07-12 23:38:02,800 - INFO - Data loaded into PostgreSQL database. Time elapsed: 0:00:00.018117
+2023-07-12 23:38:02,800 - INFO - ----- Program execution completed -----
+2023-07-12 23:40:44,679 - INFO - ----- Starting the program -----
+2023-07-12 23:40:44,960 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-07-12 23:40:44,965 - INFO - Starting Gmail data extraction for vachapatel8765@gmail.com...
+2023-07-12 23:40:45,542 - INFO - Processing message 1/20
+2023-07-12 23:40:45,981 - INFO - Processing message 2/20
+2023-07-12 23:40:46,418 - INFO - Processing message 3/20
+2023-07-12 23:40:46,867 - INFO - Processing message 4/20
+2023-07-12 23:40:47,313 - INFO - Processing message 5/20
+2023-07-12 23:40:47,759 - INFO - Processing message 6/20
+2023-07-12 23:40:48,233 - INFO - Processing message 7/20
+2023-07-12 23:40:48,682 - INFO - Processing message 8/20
+2023-07-12 23:40:49,118 - INFO - Processing message 9/20
+2023-07-12 23:40:49,558 - INFO - Processing message 10/20
+2023-07-12 23:40:50,004 - INFO - Processing message 11/20
+2023-07-12 23:40:50,559 - INFO - Processing message 12/20
+2023-07-12 23:40:51,042 - INFO - Processing message 13/20
+2023-07-12 23:40:51,474 - INFO - Processing message 14/20
+2023-07-12 23:40:51,934 - INFO - Processing message 15/20
+2023-07-12 23:40:52,371 - INFO - Processing message 16/20
+2023-07-12 23:40:52,865 - INFO - Processing message 17/20
+2023-07-12 23:40:53,332 - INFO - Processing message 18/20
+2023-07-12 23:40:53,778 - INFO - Processing message 19/20
+2023-07-12 23:40:54,253 - INFO - Processing message 20/20
+2023-07-12 23:40:54,699 - INFO - Gmail data extraction completed for vachapatel8765@gmail.com. Time elapsed: 0:00:09.732583
+2023-07-12 23:40:54,699 - INFO - Loading data into PostgreSQL database...
+2023-07-12 23:40:54,716 - INFO - Data loaded into PostgreSQL database. Time elapsed: 0:00:00.017069
+2023-07-12 23:40:54,716 - INFO - ----- Program execution completed -----
+2023-07-12 23:42:55,002 - INFO - ----- Starting the program -----
+2023-07-12 23:43:42,364 - INFO - Starting Gmail data extraction for vachapatel8765@gmail.com...
+2023-07-12 23:45:33,536 - INFO - ----- Starting the program -----
+2023-07-12 23:46:00,119 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-07-12 23:46:00,123 - INFO - Starting Gmail data extraction for vachapatel8765@gmail.com...
+2023-07-12 23:46:00,822 - INFO - Processing message 1/20
+2023-07-12 23:46:01,263 - INFO - Processing message 2/20
+2023-07-12 23:46:01,703 - INFO - Processing message 3/20
+2023-07-12 23:46:02,143 - INFO - Processing message 4/20
+2023-07-12 23:46:02,611 - INFO - Processing message 5/20
+2023-07-12 23:46:03,055 - INFO - Processing message 6/20
+2023-07-12 23:46:03,498 - INFO - Processing message 7/20
+2023-07-12 23:46:03,958 - INFO - Processing message 8/20
+2023-07-12 23:46:04,627 - INFO - Processing message 9/20
+2023-07-12 23:46:05,065 - INFO - Processing message 10/20
+2023-07-12 23:46:05,507 - INFO - Processing message 11/20
+2023-07-12 23:46:05,951 - INFO - Processing message 12/20
+2023-07-12 23:46:06,418 - INFO - Processing message 13/20
+2023-07-12 23:46:06,884 - INFO - Processing message 14/20
+2023-07-12 23:46:07,319 - INFO - Processing message 15/20
+2023-07-12 23:46:07,774 - INFO - Processing message 16/20
+2023-07-12 23:46:08,215 - INFO - Processing message 17/20
+2023-07-12 23:46:08,683 - INFO - Processing message 18/20
+2023-07-12 23:46:09,137 - INFO - Processing message 19/20
+2023-07-12 23:46:09,595 - INFO - Processing message 20/20
+2023-07-12 23:46:10,038 - INFO - Gmail data extraction completed for vachapatel8765@gmail.com. Time elapsed: 0:00:09.915506
+2023-07-12 23:46:10,039 - INFO - Loading data into PostgreSQL database...
+2023-07-12 23:46:10,061 - INFO - Data loaded into PostgreSQL database. Time elapsed: 0:00:00.021941
+2023-07-12 23:46:10,061 - INFO - ----- Program execution completed -----
+2023-07-12 23:49:04,464 - INFO - ----- Starting the program -----
+2023-07-12 23:49:45,730 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-07-12 23:49:45,734 - INFO - Starting Gmail data extraction for vachapatel8765@gmail.com...
+2023-07-12 23:49:46,354 - INFO - Processing message 1/20
+2023-07-12 23:49:46,833 - INFO - Processing message 2/20
+2023-07-12 23:49:47,305 - INFO - Processing message 3/20
+2023-07-12 23:49:47,747 - INFO - Processing message 4/20
+2023-07-12 23:49:48,222 - INFO - Processing message 5/20
+2023-07-12 23:49:48,705 - INFO - Processing message 6/20
+2023-07-12 23:49:49,176 - INFO - Processing message 7/20
+2023-07-12 23:49:49,639 - INFO - Processing message 8/20
+2023-07-12 23:49:50,096 - INFO - Processing message 9/20
+2023-07-12 23:49:50,540 - INFO - Processing message 10/20
+2023-07-12 23:49:50,992 - INFO - Processing message 11/20
+2023-07-12 23:49:51,443 - INFO - Processing message 12/20
+2023-07-12 23:49:51,919 - INFO - Processing message 13/20
+2023-07-12 23:49:52,391 - INFO - Processing message 14/20
+2023-07-12 23:49:52,817 - INFO - Processing message 15/20
+2023-07-12 23:49:53,260 - INFO - Processing message 16/20
+2023-07-12 23:49:53,696 - INFO - Processing message 17/20
+2023-07-12 23:49:54,159 - INFO - Processing message 18/20
+2023-07-12 23:49:54,605 - INFO - Processing message 19/20
+2023-07-12 23:49:55,068 - INFO - Processing message 20/20
+2023-07-12 23:49:55,508 - INFO - Gmail data extraction completed for vachapatel8765@gmail.com. Time elapsed: 0:00:09.772135
+2023-07-12 23:49:55,508 - INFO - Loading data into PostgreSQL database...
+2023-07-12 23:49:55,526 - INFO - Data loaded into PostgreSQL database. Time elapsed: 0:00:00.017451
+2023-07-12 23:49:55,526 - INFO - ----- Program execution completed -----
+2023-07-13 00:01:26,017 - INFO - ----- Starting the program -----
+2023-07-13 00:02:12,456 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-07-13 00:02:12,476 - INFO - Starting Gmail data extraction for vachapatel8765@gmail.com...
+2023-07-13 00:02:13,211 - INFO - Processing message 1/20
+2023-07-13 00:02:13,696 - INFO - Processing message 2/20
+2023-07-13 00:02:14,139 - INFO - Processing message 3/20
+2023-07-13 00:02:14,610 - INFO - Processing message 4/20
+2023-07-13 00:02:15,207 - INFO - Processing message 5/20
+2023-07-13 00:02:15,655 - INFO - Processing message 6/20
+2023-07-13 00:02:16,109 - INFO - Processing message 7/20
+2023-07-13 00:02:16,549 - INFO - Processing message 8/20
+2023-07-13 00:02:16,992 - INFO - Processing message 9/20
+2023-07-13 00:02:17,440 - INFO - Processing message 10/20
+2023-07-13 00:02:17,882 - INFO - Processing message 11/20
+2023-07-13 00:02:18,329 - INFO - Processing message 12/20
+2023-07-13 00:02:18,864 - INFO - Processing message 13/20
+2023-07-13 00:02:19,336 - INFO - Processing message 14/20
+2023-07-13 00:02:19,771 - INFO - Processing message 15/20
+2023-07-13 00:02:20,209 - INFO - Processing message 16/20
+2023-07-13 00:02:20,638 - INFO - Processing message 17/20
+2023-07-13 00:02:21,101 - INFO - Processing message 18/20
+2023-07-13 00:02:21,563 - INFO - Processing message 19/20
+2023-07-13 00:02:22,014 - INFO - Processing message 20/20
+2023-07-13 00:02:22,462 - INFO - Gmail data extraction completed for vachapatel8765@gmail.com. Time elapsed: 0:00:09.981835
+2023-07-13 00:02:22,463 - INFO - Loading data into PostgreSQL database...
+2023-07-13 00:02:22,463 - INFO - Data loaded into PostgreSQL database. Time elapsed: 0:00:00.000498
+2023-07-13 00:02:22,463 - INFO - ----- Program execution completed -----
+2023-07-13 00:18:48,217 - INFO - ----- Starting the program -----
+2023-07-13 00:19:30,442 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-07-13 00:19:30,447 - INFO - Starting Gmail data extraction for vachapatel8765@gmail.com...
+2023-07-13 00:19:31,296 - INFO - Processing message 1/20
+2023-07-13 00:19:31,754 - INFO - Processing message 2/20
+2023-07-13 00:19:32,196 - INFO - Processing message 3/20
+2023-07-13 00:19:32,627 - INFO - Processing message 4/20
+2023-07-13 00:19:33,172 - INFO - Processing message 5/20
+2023-07-13 00:19:33,620 - INFO - Processing message 6/20
+2023-07-13 00:19:34,069 - INFO - Processing message 7/20
+2023-07-13 00:19:34,515 - INFO - Processing message 8/20
+2023-07-13 00:19:34,965 - INFO - Processing message 9/20
+2023-07-13 00:19:35,409 - INFO - Processing message 10/20
+2023-07-13 00:19:35,845 - INFO - Processing message 11/20
+2023-07-13 00:19:36,288 - INFO - Processing message 12/20
+2023-07-13 00:19:36,728 - INFO - Processing message 13/20
+2023-07-13 00:19:37,191 - INFO - Processing message 14/20
+2023-07-13 00:19:37,665 - INFO - Processing message 15/20
+2023-07-13 00:19:38,090 - INFO - Processing message 16/20
+2023-07-13 00:19:38,553 - INFO - Processing message 17/20
+2023-07-13 00:19:38,996 - INFO - Processing message 18/20
+2023-07-13 00:19:39,430 - INFO - Processing message 19/20
+2023-07-13 00:19:39,879 - INFO - Processing message 20/20
+2023-07-13 00:19:40,325 - INFO - Gmail data extraction completed for vachapatel8765@gmail.com. Time elapsed: 0:00:09.877118
+2023-07-13 00:19:40,325 - INFO - Loading data into PostgreSQL database...
+2023-07-13 00:19:40,352 - INFO - Data loaded into PostgreSQL database. Time elapsed: 0:00:00.026986
+2023-07-13 00:19:40,352 - INFO - ----- Program execution completed -----
+2023-07-13 00:20:21,126 - INFO - ----- Starting the program -----
+2023-07-13 00:20:44,050 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-07-13 00:20:44,067 - INFO - Starting Gmail data extraction for vachapatel8765@gmail.com...
+2023-07-13 00:20:44,619 - INFO - Processing message 1/20
+2023-07-13 00:20:45,079 - INFO - Processing message 2/20
+2023-07-13 00:20:45,521 - INFO - Processing message 3/20
+2023-07-13 00:20:45,966 - INFO - Processing message 4/20
+2023-07-13 00:20:46,425 - INFO - Processing message 5/20
+2023-07-13 00:20:46,878 - INFO - Processing message 6/20
+2023-07-13 00:20:47,324 - INFO - Processing message 7/20
+2023-07-13 00:20:47,773 - INFO - Processing message 8/20
+2023-07-13 00:20:48,239 - INFO - Processing message 9/20
+2023-07-13 00:20:48,690 - INFO - Processing message 10/20
+2023-07-13 00:20:49,128 - INFO - Processing message 11/20
+2023-07-13 00:20:49,573 - INFO - Processing message 12/20
+2023-07-13 00:20:50,013 - INFO - Processing message 13/20
+2023-07-13 00:20:50,481 - INFO - Processing message 14/20
+2023-07-13 00:20:50,950 - INFO - Processing message 15/20
+2023-07-13 00:20:51,383 - INFO - Processing message 16/20
+2023-07-13 00:20:51,819 - INFO - Processing message 17/20
+2023-07-13 00:20:52,252 - INFO - Processing message 18/20
+2023-07-13 00:20:52,726 - INFO - Processing message 19/20
+2023-07-13 00:20:53,205 - INFO - Processing message 20/20
+2023-07-13 00:20:53,653 - INFO - Gmail data extraction completed for vachapatel8765@gmail.com. Time elapsed: 0:00:09.584936
+2023-07-13 00:20:53,653 - INFO - Loading data into PostgreSQL database...
+2023-07-13 00:20:53,662 - INFO - Data loaded into PostgreSQL database. Time elapsed: 0:00:00.009158
+2023-07-13 00:20:53,663 - INFO - ----- Program execution completed -----
